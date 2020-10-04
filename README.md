@@ -1,4 +1,4 @@
-### Hi there , I'm [Alexandro](https://alexandrogonsan.github.io) ! 👋
+### Hi there, I'm [Alexandro](https://alexandrogonsan.github.io)!👋
 
 <!--
 **AlexandroGonSan/AlexandroGonSan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,26 +6,20 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on a management system for internet providers .
-- 🌱 I’m currently learning Laravel, Node, Chrome extensions, tools for analyzing network flow and hacking Android applications .
-- 👯 I’m looking to collaborate on improvements to my computer experience and support for learning.
-- 🤔 I’m looking for help with developing a graphical interface on Linux with projects like [Nautilus](https://github.com/GNOME/nautilus) and [Chromium](https://github.com/chromium/chromium) .
-- 💬 Ask me about anything [here](https://github.com/AlexandroGonSan/AlexandroGonSan/issues) .
-- 📫 How to reach me: my official public username is AlexandroGonSan , on Instagram you can also find me as alexandrogonsan_ , you can send me an email to alexandrogonsan@outlook.com or a WhatsApp to +55 95 9 8104 2843 .
-- 😄 Pronouns: Ale , Alex , Lex , Lek .
-- ⚡ Fun fact: I was born in the year of the Nobel Peace Prize of Mandela , his day and 75 of his birth . 152 from the coronation of Dom II , 27 from Gemini X , 25 from Intel , 26 from Vin Diesel .
+- 🔭 I’m currently working on reducing the access time to my files.
+- 🌱 I’m currently learning watson discovery.
+- 👯 I’m looking to collaborate on testing as an end user.
+- 🤔 I’m looking for help with accessing information from dns servers, how to retrieve the list of all registered domains.
+- 💬 Ask me about anything, it could be [this way](https://github.com/AlexandroGonSan/AlexandroGonSan/issues) but look at the other line.
+- 📫 How to reach me: you can send me an email to alexandrogonsan@outlook.com or a WhatsApp to +55 95 9 8104 2843.
+- 😄 Pronouns: Alek, Ale, Alex, Lex, Lek.
+- ⚡ Fun fact: I was born in the year of the Nobel Peace Prize of Mandela, his day and 75 of his birth. 27 from Gemini X, 25 from Intel and 26 from Vin Diesel.
 
-### Part of my public life as a dev
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=alexandrogonsan&show_icons=true&theme=default&line_height=27">  
 </p>
 
-### Part of my life as a dev
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=alexandrogonsan&show_icons=true&theme=default&line_height=27&count_private=true">  
-</p>
-
-Credits : [otallyto](https://github.com/otallyto) , [EduardoPires](https://github.com/EduardoPires) , [hbgit](https://github.com/hbgit) , [anuraghazra](https://github.com/anuraghazra) .
+Credits: [otallyto](https://github.com/otallyto), [EduardoPires](https://github.com/EduardoPires), [hbgit](https://github.com/hbgit), [anuraghazra](https://github.com/anuraghazra).
 
 <!--
 ![My Image](https://github-readme-stats.vercel.app/api?username=alexandrogonsan&show_icons=true&theme=default&line_height=27&classes=float-left)
